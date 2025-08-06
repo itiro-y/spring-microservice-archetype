@@ -1,7 +1,7 @@
 # spring-microservice-archetype
 Simple Maven Archetype to initialize a Microservice Spring Project with initial dependencies
 
-## Dependencies
+## List of Dependencies:
 - Spring Web
 - JPA
 - DevTools
