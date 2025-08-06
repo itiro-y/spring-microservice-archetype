@@ -34,4 +34,4 @@ Em ~/target/generated-sources/archetype
 ## Criando um projeto apartir do archetype
 
 No local onde irá criar o projeto
-- $ mvn archetype:generate -DarchetypeGroupId=br.com.erudio -DarchetypeArtifactId=rest-with-spring-boot-and-java-archetype
+- $ mvn archetype:generate -DarchetypeGroupId= -DarchetypeArtifactId=
